@@ -1,0 +1,41 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vrandals.github.io" resolutions="1x" timestamp="1522576890947">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="11927216" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="236151067" ref="index"/>
+    <file name="gradien.jpg" crc="4078801093" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u220-4.png" crc="117003463" ref="index"/>
+    <file name="u157-4.png" crc="4034009567" ref="index"/>
+    <file name="u167-4.png" crc="388455214" ref="index"/>
+    <file name="u201-5.png" crc="25376068" ref="index"/>
+    <file name="google-play-badge.png" crc="3854387789" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u223-6.png" crc="4036081898" ref="index"/>
+    <file name="u226-9.png" crc="4115522745" ref="index"/>
+    <file name="icons8-installing-updates-filled-100.png" crc="4089583263" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mouse_over_down.png" crc="211617159" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="idea_overview_5_1.png" crc="3962520722" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u245-7.png" crc="3952079914" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4271669325" seo="true" mt="1522576863040" redirect="true"/>
+</manifest>
